@@ -1,0 +1,56 @@
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  fill="none"
+>
+  <!-- Headphone arch -->
+  <path
+    d="M10 34V28C10 15.85 19.85 6 32 6
+       C44.15 6 54 15.85 54 28V34"
+    stroke="#6542C7"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+
+  <!-- Left ear cup -->
+  <rect
+    x="5"
+    y="29"
+    width="11"
+    height="23"
+    rx="5"
+    stroke="#6542C7"
+    stroke-width="3.5"
+  />
+
+  <!-- Right ear cup -->
+  <rect
+    x="48"
+    y="29"
+    width="11"
+    height="23"
+    rx="5"
+    stroke="#6542C7"
+    stroke-width="3.5"
+  />
+
+  <!-- Open book -->
+  <path
+    d="M32 32C25 26 17 27 16 30V53
+       C22 50 28 51 32 56
+       C36 51 42 50 48 53V30
+       C47 27 39 26 32 32Z"
+    stroke="#6542C7"
+    stroke-width="2.8"
+    stroke-linejoin="round"
+  />
+
+  <!-- Book center -->
+  <path
+    d="M32 32V56"
+    stroke="#6542C7"
+    stroke-width="2.5"
+    stroke-linecap="round"
+  />
+</svg>
